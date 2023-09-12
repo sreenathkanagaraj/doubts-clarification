@@ -1,0 +1,36 @@
+Entities
+ - wheel of time (1 - many)
+ - the eye of the world (1 - many)
+ - genres(all genres) (many to many)
+ - locus award & other awards (one to many)
+ - title of the book (one to one)
+ - more edition 
+ - about the author (one to many)
+ - readers also enjoyed (many to many)
+ - all similar books (many to many)
+ - friends and following (many to many)
+ - buy on amazon (many to many)
+ - want to read
+ - quotes / discussion / questions
+ - home 
+ - my books
+ - browse
+ - community
+ - search books
+ - sign in
+ - join
+ 
+Attributes
+ - ratings 
+ - reviews
+ - book details 
+ - count of pages
+ - setting
+ - character
+ - this edition
+ - book statistics
+ - community reviews
+
+Constraints
+ - rating you cant rate without selecting any stars
+ - without signing you cant review or comment or add to want to read

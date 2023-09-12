@@ -1,0 +1,23 @@
+entities
+ - jeff kinney
+ - website
+ - twitter
+ - genre
+ - popular answered questions
+ - jeff kenneys books
+ - jeffs bookshelves
+ - jeffs friends
+ - series by jeff kenny
+ - jeff is curently reading
+ - quotes by jeff kenny
+ - polls
+ 
+attributes
+ - more photos ( in profile pic) (one to many)
+ - ask the author (many to one)
+ - likes or comment in popular answered questions
+ - jeffs friemds comments
+ 
+constraints
+ - you cant edit data unless u sign in (domain action)
+ - you cant comment unless youre jeffs friend under jeffs comment section

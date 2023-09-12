@@ -1,0 +1,8 @@
+entities
+ - noufals review
+ - want to read
+ - sign in
+ 
+attributes
+ - date of review
+ - likes

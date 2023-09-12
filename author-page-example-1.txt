@@ -1,0 +1,22 @@
+entites
+ - cal newport
+ - website (one to manay)
+ - genre (many to many)
+ - on tools and aesthetics of work (one to many)
+ - cal newport's blog (one to many)
+ - videos (one to many)
+ - digital minimalism
+ - view more on calports website (one to many)
+ - view all 542 posts (many to many)
+ - cal newport's books (one to many)
+ - related news
+ - topics mentioning this author
+ - polls (many to one)
+ 
+attributes
+ - cal newport's followers
+ - videos( comments)
+ - digital minimalism (comments)
+ - read more of this blogpost
+ 
+ 

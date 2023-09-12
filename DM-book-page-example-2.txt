@@ -1,0 +1,10 @@
+Entities
+ - deep work: rules for .... (one to one)
+ - cal newport (one to many)
+ - good reads choice awards (0ne to many)
+ - genres ( many to many)
+ - want to read ()
+ - kindle buy (many to many)
+ 
+ --- rest all same as the book page example 1
+ 

@@ -1,0 +1,16 @@
+entities
+ - emily books with emily fox reviews (one to many)
+ - share on facebook (one to many)
+ - likes (many to many)
+ - sign in (one to one)
+ - post a comment (many to many)
+ 
+ attributes
+  - rating stars
+  - date of review 
+  - view spoiler (one to many)
+  - reading progress 
+  - comments (many to one)
+ 
+ constraints
+  - login to check the friends "read" status
